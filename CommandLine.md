@@ -36,3 +36,43 @@ Eventually the big dealership came out with a full-fledged car: a colossal stati
 Since then there has been a lot of noise and shouting, but little has changed. The smaller dealership continues to sell sleek Euro-styled sedans and to spend a lot of money on advertising campaigns. They have had GOING OUT OF BUSINESS! signs taped up in their windows for so long that they have gotten all yellow and curly. The big one keeps making bigger and bigger station wagons and ORVs.
 
 On the other side of the road are two competitors that have come along more recently.
+
+One of them (Be, Inc.) is selling fully operational Batmobiles (the BeOS). They are more beautiful and stylish even than the Euro-sedans, better designed, more technologically advanced, and at least as reliable as anything else on the market--and yet cheaper than the others.
+
+With one exception, that is: Linux, which is right next door, and which is not a business at all. It's a bunch of RVs, yurts, tepees, and geodesic domes set up in a field and organized by consensus. The people who live there are making tanks. These are not old-fashioned, cast-iron Soviet tanks; these are more like the M1 tanks of the U.S. Army, made of space-age materials and jammed with sophisticated technology from one end to the other. But they are better than Army tanks. They've been modified in such a way that they never, ever break down, are light and maneuverable enough to use on ordinary streets, and use no more fuel than a subcompact car. These tanks are being cranked out, on the spot, at a terrific pace, and a vast number of them are lined up along the edge of the road with keys in the ignition. Anyone who wants can simply climb into one and drive it away for free.
+
+Customers come to this crossroads in throngs, day and night. Ninety percent of them go straight to the biggest dealership and buy station wagons or off-road vehicles. They do not even look at the other dealerships.
+
+Of the remaining ten percent, most go and buy a sleek Euro-sedan, pausing only to turn up their noses at the philistines going to buy the station wagons and ORVs. If they even notice the people on the opposite side of the road, selling the cheaper, technically superior vehicles, these customers deride them cranks and half-wits.
+
+The Batmobile outlet sells a few vehicles to the occasional car nut who wants a second vehicle to go with his station wagon, but seems to accept, at least for now, that it's a fringe player.
+
+The group giving away the free tanks only stays alive because it is staffed by volunteers, who are lined up at the edge of the street with bullhorns, trying to draw customers' attention to this incredible situation. A typical conversation goes something like this:
+
+Hacker with bullhorn: "Save your money! Accept one of our free tanks! It is invulnerable, and can drive across rocks and swamps at ninety miles an hour while getting a hundred miles to the gallon!"
+
+Prospective station wagon buyer: "I know what you say is true...but...er...I don't know how to maintain a tank!"
+
+Bullhorn: "You don't know how to maintain a station wagon either!"
+
+Buyer: "But this dealership has mechanics on staff. If something goes wrong with my station wagon, I can take a day off work, bring it here, and pay them to work on it while I sit in the waiting room for hours, listening to elevator music."
+
+Bullhorn: "But if you accept one of our free tanks we will send volunteers to your house to fix it for free while you sleep!"
+
+Buyer: "Stay away from my house, you freak!"
+
+Bullhorn: "But..."
+
+Buyer: "Can't you see that everyone is buying station wagons?"
+
+
+BIT-FLINGER
+
+
+The connection between cars, and ways of interacting with computers, wouldn't have occurred to me at the time I was being taken for rides in that MGB. I had signed up to take a computer programming class at Ames High School. After a few introductory lectures, we students were granted admission into a tiny room containing a teletype, a telephone, and an old-fashioned modem consisting of a metal box with a pair of rubber cups on the top (note: many readers, making their way through that last sentence, probably felt an initial pang of dread that this essay was about to turn into a tedious, codgerly reminiscence about how tough we had it back in the old days; rest assured that I am actually positioning my pieces on the chessboard, as it were, in preparation to make a point about truly hip and up-to-the minute topics like Open Source Software). The teletype was exactly the same sort of machine that had been used, for decades, to send and receive telegrams. It was basically a loud typewriter that could only produce UPPERCASE LETTERS. Mounted to one side of it was a smaller machine with a long reel of paper tape on it, and a clear plastic hopper underneath.
+
+In order to connect this device (which was not a computer at all) to the Iowa State University mainframe across town, you would pick up the phone, dial the computer's number, listen for strange noises, and then slam the handset down into the rubber cups. If your aim was true, one would wrap its neoprene lips around the earpiece and the other around the mouthpiece, consummating a kind of informational soixante-neuf.  The teletype would shudder as it was possessed by the spirit of the distant mainframe, and begin to hammer out cryptic messages.
+
+Since computer time was a scarce resource, we used a sort of batch processing technique. Before dialing the phone, we would turn on the tape puncher (a subsidiary machine bolted to the side of the teletype) and type in our programs. Each time we depressed a key, the teletype would bash out a letter on the paper in front of us, so we could read what we'd typed; but at the same time it would convert the letter into a set of eight binary digits, or bits, and punch a corresponding pattern of holes across the width of a paper tape. The tiny disks of paper knocked out of the tape would flutter down into the clear plastic hopper, which would slowly fill up what can only be described as actual bits. On the last day of the school year, the smartest kid in the class (not me) jumped out from behind his desk and flung several quarts of these bits over the head of our teacher, like confetti, as a sort of semi-affectionate practical joke. The image of this man sitting there, gripped in the opening stages of an atavistic fight-or-flight reaction, with millions of bits (megabytes) sifting down out of his hair and into his nostrils and mouth, his face gradually turning purple as he built up to an explosion, is the single most memorable scene from my formal education.
+
+Anyway, it will have been obvious that my interaction with the computer was of an extremely formal nature, being sharply divided up into different phases, viz.: (1) sitting at home with paper and pencil, miles and miles from any computer, I would think very, very hard about what I wanted the computer to do, and translate my intentions into a computer language--a series of alphanumeric symbols on a page. (2) I would carry this across a sort of informational cordon sanitaire (three miles of snowdrifts) to school and type those letters into a machine--not a computer--which would convert the symbols into binary numbers and record them visibly on a tape. (3) Then, through the rubber-cup modem, I would cause those numbers to be sent to the university mainframe, which would (4) do arithmetic on them and send different numbers back to the teletype. (5) The teletype would convert these numbers back into letters and hammer them out on a page and (6) I, watching, would construe the letters as meaningful symbols.
